@@ -1,0 +1,15 @@
+{
+  "name": "agregar_ip_publica_gcp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "await-exec": "^0.1.2",
+    "node-fetch": "^2.6.7"
+  }
+}
