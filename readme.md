@@ -1,4 +1,4 @@
-# Agregar ip publica a instancia sql de gcp
+# Agregar ip pública a instancia sql de gcp
 
 Mini proyecto que busca automatizar el agregar la ip pública.
 
