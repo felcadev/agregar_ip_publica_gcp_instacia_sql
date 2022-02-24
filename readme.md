@@ -1,6 +1,7 @@
 # Agregar ip pública a instancia sql de gcp
 
-Mini proyecto que busca automatizar el agregar la ip pública.
+Mini proyecto que busca automatizar el agregar la ip pública a gcp.
+Disponible para Mac/linux, ya que se ocupa curl.
 
 ## 1 Instalación
 
@@ -27,7 +28,7 @@ npm start
 
 * Preguntará por el nombre que se desea registrar junto a la ip pública.
 
-La aplicación permite agregar y también editar la ip pública si es que coincide con el mismo nombre y es una ip distinta.
+La aplicación permite agregar y también actualizar la ip pública si es que coincide con el mismo nombre y es una ip distinta.
 
 
 
